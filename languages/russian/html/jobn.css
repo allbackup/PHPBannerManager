@@ -1,0 +1,167 @@
+.smallselect {
+ color: #000000;
+ font-family: Arial; font-size: 11px; 
+ background-color: #EEEEEE;
+ font-weight: normal; border: 1 none #000000 
+}
+.radio {
+ font-family: Verdana; font-size: 11px; 
+ background: transparent; 
+ font-weight: Bold; border: 0 solid #000000 
+}
+A:LINK, A:VISITED {
+	color : #0073AA;
+	font-family : sans-serif;
+	text-decoration : none;
+	font-weight : normal;
+	font-size : 10px;
+}
+A:HOVER {
+    color : #FF0000;
+    font-family : sans-serif;
+    text-decoration : underline;
+    font-weight : normal;
+    font-size : 10px;
+}
+.regtext {
+    color: #000000;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 11px;
+}
+.headertdempl {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    border: 1px solid #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.headertdjob {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    border: 1px solid #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: #EEEEEE;
+}
+.verysmall {
+    color: #000000;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10px;
+}
+A.featured:LINK, A.featured:VISITED {
+    color : #55AAAA;
+    font-family : arial;
+    text-decoration : none;
+    font-weight : bold;
+    font-size : 11px;
+}
+A.featured:HOVER {
+    color : #FF0000;
+    font-family : arial;
+    text-decoration : underline;
+    font-weight : bold;
+    font-size : 11px;
+}
+A.nav:LINK, A.nav:VISITED {
+    color : #008D8D;
+    font-family : arial;
+    text-decoration : none;
+    font-weight : bold;
+    font-size : 11px;
+}
+A.nav:HOVER {
+    color : #FF0000;
+    font-family : arial;
+    text-decoration : none;
+    font-weight : bold;
+    font-size : 11px;
+}
+A.search:LINK, A.search:VISITED {
+    color : #000066;
+    font-family : arial;
+    text-decoration : none;
+    font-weight : normal;
+    font-size : 12px;
+}
+A.search:HOVER {
+    color : #FF0000;
+    font-family : arial;
+    text-decoration : none;
+    font-weight : normal;
+    font-size : 12px;
+}
+hr {
+    height: 1px;
+    color: #FF9933
+}
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.view {
+    color: #0000FF;
+    font-family: arial;
+    font-weight: normal;
+    font-size: 12px;
+}
+.td4textarea {
+    color: #336699;
+    font-family: Verdana;
+    font-size: 10px; 
+    background-color: #F5F5F5; 
+    font-weight: normal;
+    border: 1px solid #D5D5D5;
+    padding : 15px;
+}
+.td4impmess {
+    color: #336699;
+    font-family: Verdana;
+    font-size: 11px; 
+    background-color: #F5F5F5; 
+    font-weight: normal;
+    border: 2px solid #FF0000;
+    padding : 5px;
+}
+.compdesc {
+    color: #CC0000;
+    font-family: Verdana;
+    font-size: 10px; 
+    background-color: #F5F5F5; 
+    font-weight: normal;
+    border: 1px solid #FF0000;
+    padding : 10px;
+}
+.error {
+    font-family: Verdana; font-size: 10px; 
+    color: #FF0000; 
+    font-weight: Bold;
+}
+.navinput {
+    color: #000099;
+    font-family: Arial;
+    font-size: 11px; 
+    background: transparent;
+    font-weight: bold;
+    letter-spacing : 1px;
+}
+.featcomp {
+    color: #000099;
+    font-family: Arial;
+    font-size: 9px;
+    background: transparent;
+    font-weight: Bold;
+}
+.featjobs {
+    color: #000099;
+    font-family: Arial;
+    font-size: 9px;
+    background: transparent;
+    font-weight: Bold;
+}
+.noborder { font-family: Verdana; font-size: 9pt;  font-weight: Bold;  border: 0px none #000000; background: transparent;} 

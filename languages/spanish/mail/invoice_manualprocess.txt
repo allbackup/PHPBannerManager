@@ -1,0 +1,16 @@
+Dear %%employer_company%%,
+
+Invoice details (NO: %%invoice_id%%)
+
+List Price: %%invoice_listprice%%
+Discount: %%invoice_discount%%
+Total Payment Value: %%invoice_totalprice%%
+Payment date: %%invoice_paymentdate%%
+
+Company information:
+%%company_information%%
+Payment information:
+%%payment_information%%
+
+
+Thank you.

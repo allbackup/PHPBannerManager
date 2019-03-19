@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile /home/bitmix/public_html/php-banner-manager/ver2.0/admin/.htpasswd
+AuthName "Banner Manager v2.0 Admin"
+require valid-user

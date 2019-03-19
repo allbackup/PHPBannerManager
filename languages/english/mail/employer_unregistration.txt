@@ -1,0 +1,7 @@
+Dear %%employer_company%%,
+
+Your signed off from our services.
+Your account is not available anymore.
+
+
+Thank you.

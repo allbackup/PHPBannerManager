@@ -1,0 +1,4 @@
+*********delaccount torolni a user kepeit
+*************date format - stats table (day), invoices table (payment_date,i_start_date,) dd/mm/YYYY
+language vars?
+***********show buyer list nem ir ki semmit

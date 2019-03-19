@@ -1,0 +1,6 @@
+<table bgcolor="#DBEEEE" width="100%" border="0" cellspacing="0" cellpadding="0" style="border: 1px solid #000000">
+  <tr>
+    <td align="center" valign="middle" colspan="2" width="100%"><font face="Arial" size="5" color="#0073AA"><b><i>Php Banner Manager</i></b></font>&nbsp;&nbsp;<font style="color: #FF0000; font-family: Arial; font-size: 14px; font-weight: bold">Admin Area</font></td>
+  </tr>
+  <tr><td width="50%">&nbsp;<font style="color: #121212; font-family: Arial; font-size: 13px;"><?php if($HTTP_SESSION_VARS['adm_ip']){echo "Last login from: <b>".$HTTP_SESSION_VARS['adm_ip']."<b>"; bx_session_unregister("adm_ip");}?></font></td><td align="right" width="50%"><font style="color: #FF0000; font-family: Arial; font-size: 11px; font-weight: bold">version <?php echo PHP_BM_VERSION;?>&nbsp;</font></td></tr>
+</table></center>

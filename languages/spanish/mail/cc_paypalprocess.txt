@@ -1,0 +1,14 @@
+Dear %%employer_company%%,
+
+Invoice details (NO: %%invoice_id%%)
+
+Paypal Order Number: %%paypal_invoice_number%%
+Paypal Order Status: %%paypal_order_status%%
+Paypal Order Method: %%paypal_order_method%%
+
+List Price: %%invoice_listprice%%
+Total Payment Value: %%invoice_totalprice%%
+Payment date: %%invoice_paymentdate%%
+IP Address: %%ip_address%%
+
+Thank you for your order.

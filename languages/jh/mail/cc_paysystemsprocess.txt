@@ -1,0 +1,23 @@
+Dear %%employer_company%%,
+
+Invoice details (NO: %%invoice_id%%)
+
+Paysystems Order Number: %%paysystems_order_number%%
+Paysystems Order Status: %%paysystems_order_status%%
+
+Buyer Information:
+Buyer Address: %%cc_address%%
+Buyer City: %%cc_city%%
+Buyer State: %%cc_state%%
+Buyer Zipcode: %%cc_zip%%
+Buyer Country: %%cc_country%%
+Buyer phone: %%cc_phone%%
+Buyer email: %%cc_email%%
+
+
+List Price: %%invoice_listprice%%
+Total Payment Value: %%invoice_totalprice%%
+Payment date: %%invoice_paymentdate%%
+IP Address: %%ip_address%%
+
+Thank you for your order.

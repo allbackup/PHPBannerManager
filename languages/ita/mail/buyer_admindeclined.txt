@@ -1,0 +1,19 @@
+Dear %%name%%,
+
+Your banner purchase was declined by admin.
+Declined Invoice information (NO: %%invoice_id%%)
+
+List Price: %%invoice_listprice%%
+Vat: %%invoice_vat%%
+Total Payment Value: %%invoice_totalprice%%
+Payment date: %%invoice_paymentdate%%
+
+Company information:
+%%company_information%%
+Payment information:
+%%payment_information%%
+
+Decline description:
+%%decline_message%%
+
+Thank you.

@@ -1,0 +1,26 @@
+Dear %%employer_company%%,
+
+Your purchase was accepted by admin.
+Invoice information (NO: %%invoice_id%%)
+
+List Price: %%invoice_listprice%%
+Total Payment Value: %%invoice_totalprice%%
+Payment date: %%invoice_paymentdate%%
+
+Company information:
+%%company_information%%
+Payment information:
+%%payment_information%%
+CardHolder Name: %%cc_name%%
+Credit Card Type: %%cc_type%%
+Credit Card Number: %%cc_num%%
+Credit Card Verification Code: %%cc_vcode%%
+Expiration Date: %%cc_exp%%
+Comment:
+%%cc_comment%%
+
+
+Payment description:
+%%invoice_description%%
+
+Thank you.
